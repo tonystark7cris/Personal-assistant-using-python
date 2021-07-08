@@ -1,5 +1,5 @@
 from tkinter import *
-from PIL import ImageTk, Image
+#from PIL import ImageTk, Image
 from gtts import gTTS
 import speech_recognition as sr
 import re
